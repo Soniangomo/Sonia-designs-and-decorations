@@ -1,4 +1,4 @@
-SONIA DESIGN AND DECORATIONS
+#SONIA DESIGN AND DECORATIONS
 
 SONIA DESIGN AND DECORATIONS We are a space solutions provider, marrying aesthetics and functionality to create interior specially catered for you.
 With over 5 years of experience, we have collaborated with local and global clients such as KFC, Old Chang Kee, Intrado and many more.
