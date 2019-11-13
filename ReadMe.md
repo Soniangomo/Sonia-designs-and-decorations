@@ -31,7 +31,7 @@ we bring you the art and science according of the place,country you live. we hav
    - week 10 complete the home page and create the Front END
    - Week 11 complete the Front End
    - Week 12 create the Back End
-   - Week 13 add designs and content about us
+   - Week 13 add designs and content
    - Week 14 create user database
    - Week 15 finish the page details and contents
    - Week 16 ready whole project and upload in github page
