@@ -4,7 +4,7 @@ SONIA DESIGN AND DECORATIONS We are a space solutions provider, marrying aesthet
 With over 5 years of experience, we have collaborated with local and global clients such as KFC, Old Chang Kee, Intrado and many more.
 we bring you the art and science according of the place,country you live. we have the best service for you, and we bring you the design service that on focus whats the best for your home,for your office,for your room..., and whats best for you.
 
-*FEATURES
+## FEATURES
  -user can create account
  -update the website every 6 month
  -refresh the page with new options
@@ -13,19 +13,19 @@ we bring you the art and science according of the place,country you live. we hav
  -User can keep the picture about his favorite design or the desing he like.
  -Details about the home desing or decorations.
 
-*TECNOLOGY
+## TECNOLOGY
 
- - FRONT END
+ ### FRONT END
    -HTML
    -CSS
    -BOOTSTRAP
    -JAVASCRIPT
 
- - BACK END
+ ### BACK END
   -NODE.JS
   -DATABASE
 
-  *PLAN PROJECT
+  ## PLAN PROJECT
    - Week 8 create the github
    - Week 9 create the home page
    - week 10 complete the home page and create the Front END
