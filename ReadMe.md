@@ -40,4 +40,4 @@ we bring you the art and science according of the place,country you live. we hav
     NGOMO NCHAMA SONIA GAUDENCIA BILE 2017002110
    
    
-<a href="https://soniangomo.github.io/Sonia-designs-and-decorations/">Link</a>
+<a href="https://soniangomo-sonia-designs-and-decorations.glitch.me/">Link</a>
