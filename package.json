@@ -1,0 +1,37 @@
+{
+  "name": "Sonia-designs-and-decorations",
+  "version": "1.0.0",
+  "description": "SONIA DESIGN AND DECORATIONS We are a space solutions provider, marrying aesthetics and functionality to create interior specially catered for you.\r With over 5 years of experience, we have collaborated with local and global clients such as KFC, Old Chang Kee, Intrado and many more.\r we bring you the art and science according of the place,country you live. we have the best service for you, and we bring you the design service that on focus whats the best for your home,for your office,for your room..., and whats best for you.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soniangomo/Sonia-designs-and-decorations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soniangomo/Sonia-designs-and-decorations/issues"
+  },
+  "homepage": "https://github.com/Soniangomo/Sonia-designs-and-decorations#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "dotenv": "^8.2.0",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "express-session": "^1.17.0",
+    "mongodb": "^3.3.4",
+    "mongoose": "^5.7.13",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
